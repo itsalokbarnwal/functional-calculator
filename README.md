@@ -20,6 +20,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
+   https://github.com/itsalokbarnwal/functional-calculator/tree/main
 
  2. Navigate to the project directory:
     cd functional-calculator
